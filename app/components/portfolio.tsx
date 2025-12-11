@@ -13,8 +13,8 @@ const PROJECTS = [
   },
   {
     title: "E-Commerce Dashboard",
-    img: "/projects/dashboard.png",
-    tags: ["Next.js", "Tailwind", "Chart.js"],
+    img: "/projects/teeq-img.png",
+    tags: ["JS", "Bootstrap", "Express/Node", "MongoDB", "React"],
   },
   {
     title: "SaaS Landing Page",
