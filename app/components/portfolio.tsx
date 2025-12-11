@@ -6,6 +6,12 @@ import { ArrowRight } from "lucide-react";
 
 const PROJECTS = [
   {
+    title: "Online Learning Application",
+    img: "/projects/online-learning.png",
+    tags: ["Next.js", "Tailwind", "Postgress", "Shadcn UI", "Vercel", "TypeScript"],
+    link: "https://online-learning-three-virid.vercel.app/",
+  },
+  {
     title: "E-Commerce Dashboard",
     img: "/projects/dashboard.png",
     tags: ["Next.js", "Tailwind", "Chart.js"],
@@ -15,11 +21,6 @@ const PROJECTS = [
     img: "/projects/journal-app.png",
     tags: ["Next.js", "Tailwind", "TypeScript"],
     link: "https://pro-app-omega.vercel.app/",
-  },
-  {
-    title: "Portfolio Website",
-    img: "/projects/portfolio.jpeg",
-    tags: ["Next.js", "Shadcn UI", "Vercel"],
   },
 ];
 

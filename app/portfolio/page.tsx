@@ -6,15 +6,16 @@ import { ArrowRight } from "lucide-react";
 
 const PROJECTS = [
     {
-        title: "SaaS Landing Page",
+        title: "Online Learning Application",
+        img: "/projects/online-learning.png",
+        tags: ["Next.js", "Tailwind", "Postgress", "Shadcn UI", "Vercel", "TypeScript"],
+        link: "https://online-learning-three-virid.vercel.app/",
+    },
+    {
+        title: "SaaS App",
         img: "/projects/journal-app.png",
         tags: ["Next.js", "Tailwind", "TypeScript"],
         link: "https://pro-app-omega.vercel.app/",
-    },
-    {
-      title: "SaaS Landing Page",
-      img: "/projects/saas.png",
-      tags: ["React", "Framer Motion", "TypeScript"],
     },
     {
       title: "Portfolio Website",
